@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+#headerBox {
+    background-color: khaki;
+    padding: 10px;
+    border: 10px solid teal;
+    margin: 25px;
+  }
+
+#categoryBox {
+    background-color: khaki;
+    padding: 5px;
+    border: 10px solid teal;
+    margin: 25px;
+  }
+
+.listBox {
+    display: inline-block;
+    background-color: goldenrod;
+    height: 150;
+    width: 150;
+    margin: 8px;
+    border-radius: 10px;
+}
+
+img {
+    padding: 10px;
+    background-color: goldenrod;
+    height: 150;
+    width: 150;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
