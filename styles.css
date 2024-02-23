@@ -1,5 +1,4 @@
-h1 {
-    text-align: center;
+h2 {
     color: darkblue;
 }
 
@@ -31,7 +30,6 @@ img {
     background-color: goldenrod;
     height: 150;
     width: 150;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 8px;
     border-radius: 10px;
 }
